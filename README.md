@@ -1,24 +1,35 @@
-# Data-cleaning
+<h1>🧼 Data Cleaning – Learning Notes (By Yusuf Abdurrahman)</h1>
+<p><em>"Clean data is the foundation of trustworthy insights."</em></p>
 
-<h2>🧼 Data Cleaning – Learning Notes
-"Clean data is the foundation of trustworthy insights."</h2>
+<h2>📘 What I Learned in Data Cleaning</h2>
+<p>In this project, I explored several essential techniques to prepare and clean raw data for analysis:</p>
 
-📘 What I Learned in Data Cleaning
-Here’s a summary of the key concepts I’ve learned while exploring the data cleaning process:
+<hr>
 
-1. Handling Missing Values
-One of the most common issues in real-world datasets is missing values. It’s important to identify them and decide the best way to handle them, whether by removing or replacing them.
+<h3>1. Handling Missing Values</h3>
+<p>Missing values are a common problem in datasets. It’s important to identify and handle them appropriately, either by removing or replacing them.</p>
+<strong>Why it matters:</strong>
+<p>Missing data can skew results or lead to incorrect conclusions, so addressing it is crucial for accurate analysis.</p>
 
-2. Renaming Columns
-Clear and consistent column names help make the data easier to understand and work with. Renaming columns also improves readability and supports better collaboration.
+<h3>2. Renaming Columns</h3>
+<p>Sometimes, column names are unclear or have typos. Renaming columns improves clarity and makes the dataset more readable.</p>
+<strong>Why it matters:</strong>
+<p>Clear and descriptive column names improve understanding and help with data manipulation.</p>
 
-3. Filling Missing Values (Imputation)
-Instead of removing rows with missing values, we can fill them using various imputation methods such as mean, median, or a predefined value. This helps preserve data while maintaining accuracy.
+<h3>3. Filling Missing Values (Imputation)</h3>
+<p>Instead of removing rows with missing values, we can fill them using different methods like mean, median, or a predefined value.</p>
+<strong>Why it matters:</strong>
+<p>Imputing missing values helps preserve data and prevents loss of valuable information, especially in large datasets.</p>
 
-4. Handling Outliers
-Outliers are extreme values that can skew analysis or machine learning models. Detecting and addressing them ensures that insights drawn from the data are reliable.
+<h3>4. Handling Outliers</h3>
+<p>Outliers are extreme values that can distort data analysis or machine learning models. It’s important to detect and handle them appropriately.</p>
+<strong>Why it matters:</strong>
+<p>Handling outliers ensures the accuracy and stability of your models and analysis.</p>
 
-💡 Key Takeaways
-Clean data leads to better analysis.
-Data cleaning is a crucial step before modeling.
+<hr>
 
+<h2>📌 Key Takeaways</h2>
+<ul>
+  <li>Clean data leads to better analysis and more reliable results.</li>
+  <li>Data cleaning is a critical first step before moving on to more complex analysis or modeling tasks.</li>
+</ul>
