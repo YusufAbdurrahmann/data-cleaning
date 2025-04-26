@@ -21,11 +21,6 @@
 <strong>Why it matters:</strong>
 <p>Imputing missing values helps preserve data and prevents loss of valuable information, especially in large datasets.</p>
 
-<h3>4. Handling Outliers</h3>
-<p>Outliers are extreme values that can distort data analysis or machine learning models. It’s important to detect and handle them appropriately.</p>
-<strong>Why it matters:</strong>
-<p>Handling outliers ensures the accuracy and stability of your models and analysis.</p>
-
 <hr>
 
 <h2>📌 Key Takeaways</h2>
